@@ -1,0 +1,1 @@
+//Write a program to find the biggest of two numbers, where one number is inherited from Super class and another belongs to subclass. Super class Data members and its respective member function should be protected.
